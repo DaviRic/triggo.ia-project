@@ -12,7 +12,7 @@ Este projeto foi desenvolvido como parte do desafio técnico da Triggo.ia para v
 - Matplotlib
 - Seaborn
 - Plotly
-- JupyterLab
+- JupyterLab (ou VS Code com a extensão do Jupyter)
 
 ---
 
@@ -40,8 +40,8 @@ Este projeto foi desenvolvido como parte do desafio técnico da Triggo.ia para v
    ```
    4.1 Outra opção é abrir o Jupyter pelo **VS Code**
       - Instale a extensão: ``Jupyter``
-5. **Navegue para o notebook princial**:
-   Navegue até a pasta ``notebooks/`` e abra o arquivo principal do projeto (o arquivo ``main.ipynb``).
+5. **Abra o notebook princial**:
+   - Navegue até a pasta ``notebooks/`` e abra o arquivo principal do projeto (o arquivo ``main.ipynb``).
 
 ## 📁 Estrutura do Projeto
 ```
@@ -105,5 +105,5 @@ O projeto demonstrou como a análise de dados pode fornecer insights de valor so
 
 ## ✍️ Candidato
 ### Davi Cruvel
-[LinkedIn](https://www.linkedin.com/in/davicruvel/)
+[LinkedIn](https://www.linkedin.com/in/davicruvel/) | [GitHub](https://github.com/DaviRic)
 
