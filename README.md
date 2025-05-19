@@ -105,5 +105,5 @@ O projeto demonstrou como a análise de dados pode fornecer insights de valor so
 
 ## ✍️ Candidato
 ### Davi Cruvel
-[LinkedIn](https://www.linkedin.com/in/davicruvel/) | [GitHub](https://github.com/DaviRic)
+[LinkedIn](https://www.linkedin.com/in/davicruvel/)
 
